@@ -1,45 +1,43 @@
-#FlashCards React App
+# FlashCards React App
 
-###A simple flashcards app built with React. Click on a question to reveal the answer.
+### A simple flashcards app built with React. Click on a question to reveal the answer.
 
-##Features
+## Features
 
--Displays a list of questions.
+- Displays a list of questions.
 
--Click on a question to flip and show the answer.
+- Click on a question to flip and show the answer.
 
--Only one card can be selected at a time.
+- Only one card can be selected at a time.
 
--Click the selected card again to hide the answer.
+- Click the selected card again to hide the answer.
 
-##Technologies Used
+## Technologies Used
 
--React
+- React
 
--JavaScript (ES6+)
+- JavaScript (ES6+)
 
--CSS for basic styling
-
-
-##Clone the repository:
-
-git clone : [repo] <https://github.com/apsar2324/React-flashCards>
+- CSS for basic styling
 
 
-##Install dependencies:
+## Clone the repository:
 
-###npm install
-
-
-##Start the app:
-
--npm start
+### git clone : [repo] <https://github.com/apsar2324/React-flashCards>
 
 
--Open your browser at http://localhost:3000 to see the app.
+## Install dependencies:
 
-##Example
+- npm install
 
-###Click on a card to flip it:
+
+## Start the app:
+
+- npm start
+- Open your browser at http://localhost:3000 to see the app.
+
+## Example
+
+### Click on a card to flip it:
 **Question:** What language is React based on?
 Click → Answer: JavaScript
